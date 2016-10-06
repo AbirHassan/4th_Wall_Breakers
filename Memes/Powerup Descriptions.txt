@@ -1,0 +1,16 @@
+"Another one.JPG" - Multiplies # of bullets you shoot out per button press
+"Awful-Memes.JPG" - Slows down player speed and bullet speed
+"bernie for the future.JPG" - Speeds up player speed and bullet speed
+"blurrr.JPG" - Speed up opponent and create wall tile in front of player
+"Cant stump the Trump.JPG" - Displays when player loses / if player shoots it, player loses health
+"feel the force.JPG" - increases bullet size and speed
+"Jokie Sanders" - Spawns "ball bullets" that can hurt both players
+"Just do it.JPG" - Creates a hole in the wall for 3 seconds
+"OH SNAPPA.JPG" - Hits entire wall for 1 damage. If portions of wall are already at 1 damage, they break instead.
+"Over comb.JPG" - Adds tiles to wall. Tile durability will be 1 if on easy, 2 if on medium, or 3 if on hard.
+"rekt.JPG" - Immobilizes player for 4 seconds
+"sleep.JPG" - Immobilizes opponent for 2 seconds
+"spoderman.JPG" - Hits left layer of wall for 1 damage. If portions of wall on left side are already at one damage, they break instead.
+"trump card.PNG" - Adds a layer of tiles to right side of wall with 3 durability
+"uevenliftbro.JPG" - Gives all bullets shot an upward velocity. Damages lower layer of wall by one.
+"UNLIMITED TAXES.JPG" - Increases player bullet size, speed, and damage. Eliminates any mini-enemies.
