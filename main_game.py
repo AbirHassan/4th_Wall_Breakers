@@ -300,7 +300,7 @@ def paused():
         screen.blit(backgroundImg, (0,0))
  
         largeText = pygame.font.Font("freesansbold.ttf", 50)
-        TextSurf, TextRect = text_objects("Trump's Border Patrol", largeText, BLACK)
+        TextSurf, TextRect = text_objects("4th Wall Breakers", largeText, BLACK)
         TextRect.center = ((xScreen/2), (450))
         screen.blit(TextSurf, TextRect)
         pygame.mixer.music.pause()
@@ -325,7 +325,7 @@ def main_menu():
         screen.blit(backgroundImg, (0,0))
  
         largeText = pygame.font.Font("freesansbold.ttf", 50)
-        TextSurf, TextRect = text_objects("Trump's Border Patrol", largeText, BLACK)
+        TextSurf, TextRect = text_objects("4th Wall Breakers", largeText, BLACK)
         TextRect.center = ((xScreen/2), (450))
         screen.blit(TextSurf, TextRect)
  
